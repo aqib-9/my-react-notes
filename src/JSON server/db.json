@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Aqib",
+      "age": "1222",
+      "email": "aqib@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Aqib1",
+      "age": "199",
+      "email": "aqib@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "hamid",
+      "age": "50",
+      "email": "hifwf",
+      "id": 5
+    }
+  ]
+}
